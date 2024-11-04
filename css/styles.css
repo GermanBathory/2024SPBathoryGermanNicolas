@@ -45,15 +45,17 @@ button {
 }
 
 .btnAgregar, .btnModificar, .btnAceptar, .btnAceptar2 {
-    background-color: #0c9e2e;
+    background-color: #2ecc71;
 }
 
 .btnAgregar:hover, .btnModificar:hover, .btnAceptar:hover, .btnAceptar2:hover {
-    background-color: #046d1b;
+    background-color: hsl(133, 96%, 29%);
+    color: #ffffff;
 }
 
 .btnBorrar, .btnCancelar {
-    background-color: #d63c4c;
+    background-color: #dc3545;
+    color: #ffffff;
 }
 
 .btnBorrar:hover, .btnCancelar:hover {
